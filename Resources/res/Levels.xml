@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<levels>
+  <level>
+    <role id="0" row="3" col="1"></role>
+    <role id="11" row="0" col="0"></role>
+    <role id="12" row="1" col="2"></role>
+    <role id="13" row="0" col="3"></role>
+    <role id="14" row="1" col="1"></role>
+    <role id="6" row="1" col="0"></role>
+    <role id="7" row="3" col="0"></role>
+    <role id="8" row="1" col="3"></role>
+    <role id="9" row="3" col="3"></role>
+    <role id="5" row="2" col="1"></role>
+  </level>
+  <level>
+    <role id="0" row="3" col="1"></role>
+    <role id="11" row="2" col="0"></role>
+    <role id="12" row="1" col="2"></role>
+    <role id="13" row="2" col="3"></role>
+    <role id="14" row="1" col="1"></role>
+    <role id="6" row="0" col="0"></role>
+    <role id="7" row="3" col="0"></role>
+    <role id="8" row="0" col="3"></role>
+    <role id="9" row="3" col="3"></role>
+    <role id="5" row="2" col="1"></role>
+  </level>
+	<level>
+		<role id="0" row="3" col="0"></role>
+		<role id="11" row="4" col="2"></role>
+		<role id="12" row="3" col="2"></role>
+		<role id="13" row="3" col="3"></role>
+		<role id="14" row="2" col="1"></role>
+		<role id="6" row="0" col="1"></role>
+		<role id="7" row="1" col="0"></role>
+		<role id="3" row="0" col="2"></role>
+		<role id="4" row="1" col="2"></role>
+		<role id="5" row="2" col="2"></role>
+	</level>
+	<level>
+    <role id="0" row="3" col="0"></role>
+    <role col="2" row="4" id="11"></role>
+    <role row="3" col="2" id="12"></role>
+    <role row="3" col="3" id="13"></role>
+    <role col="1" id="14" row="2"></role>
+    <role col="2" id="6" row="2"></role>
+    <role col="2" id="7" row="1"></role>
+    <role col="2" id="3" row="0"></role>
+    <role col="0" id="4" row="1"></role>
+    <role col="1" id="5" row="0"></role>
+  </level>
+</levels>

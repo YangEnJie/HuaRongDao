@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>p_11_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{314,389},{75,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{75,75}</string>
+			</dict>
+			<key>p_10_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,156},{150,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{150,75}</string>
+			</dict>
+			<key>p_09_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,310},{75,150}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{75,150}</string>
+			</dict>
+			<key>p_08_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{81,156},{150,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{150,75}</string>
+			</dict>
+			<key>p_07_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{156,2},{75,150}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{75,150}</string>
+			</dict>
+			<key>p_06_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{81,310},{150,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{150,75}</string>
+			</dict>
+			<key>p_05_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{160,156},{75,150}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{75,150}</string>
+			</dict>
+			<key>p_04_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{235,2},{150,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{150,75}</string>
+			</dict>
+			<key>p_03_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{160,235},{75,150}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{75,150}</string>
+			</dict>
+			<key>p_02_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{160,389},{150,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{150,75}</string>
+			</dict>
+			<key>p_01_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{239,235},{75,150}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{75,150}</string>
+			</dict>
+			<key>p_00_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{150,150}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{150,150}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>RolesPlist.png</string>
+			<key>realTextureFileName</key>
+			<string>RolesPlist.png</string>
+			<key>size</key>
+			<string>{391,466}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>391</integer>
+			<key>height</key>
+			<integer>466</integer>
+		</dict>
+	</dict>
+</plist>
